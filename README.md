@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Paulo Alcântara</h1>
+<h1 align="center">Hi, I'm Paulo</h1>
 <h3 align="center">Developer. Learning technologies!</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=alpdias" alt="alpdias"/></p>
 

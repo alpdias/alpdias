@@ -14,14 +14,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=alpdias&show_icons=true" alt="alpdias"/> 
 </p>
 
-- 🔭 All of my projects are available ... https://paulodeveloper.netlify.app/
-
-
 <p align="center">
 <a href="https://linkedin.com/in/paulo-alcantara-00b4ab14a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alpdias" height="20" width="20"/></a>
 <a href="https://t.me/alpdias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="alpdias" height="20" width="20"/></a>
 <a href="https://paulodeveloper.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discover.svg" alt="alpdias" height="20" width="20"/></a>
 </p>
+
+- 🔭 All of my projects are available ... https://paulodeveloper.netlify.app/
 
 <!--
 **alpdias/alpdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,19 +3,19 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=alpdias" alt="alpdias"/></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alpdias&show_icons=true" alt="alpdias"/> 
-</p>
-
-- 🔭 All of my projects are available ... https://paulodeveloper.netlify.app/
-
-
-<p align="center">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" height="20" width="20"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" height="20" width="20"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html" height="20" width="20"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css" height="20" width="20"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" height="20" width="20"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alpdias&show_icons=true" alt="alpdias"/> 
+</p>
+
+- 🔭 All of my projects are available ... https://paulodeveloper.netlify.app/
+
 
 <p align="center">
 <a href="https://linkedin.com/in/paulo-alcantara-00b4ab14a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alpdias" height="20" width="20"/></a>

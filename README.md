@@ -16,7 +16,6 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/paulo-alcântara-00b4ab14a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alpdias" height="20" width="20"/></a>
-<a href="https://t.me/alpdias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="alpdias" height="20" width="20"/></a>
 </p>
 
 <p align="center">

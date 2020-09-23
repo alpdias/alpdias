@@ -4,6 +4,7 @@
 
 <p align="center">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" height="20" width="20"/>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg" alt="python" height="20" width="20"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" height="20" width="20"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html" height="20" width="20"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css" height="20" width="20"/>
@@ -15,7 +16,7 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/paulo-alcântara-00b4ab14a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alpdias" height="20" width="20"/></a>
+<a href="https://linkedin.com/in/paulo-alcantara-link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alpdias" height="20" width="20"/></a>
 </p>
 
 <p align="center">

@@ -2,6 +2,7 @@
 <h3 align="center">Developer. Learning technologies!</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=alpdias" alt="alpdias"/></p>
 
+<!--
 <p align="center">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" height="20" width="20"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg" alt="python" height="20" width="20"/>
@@ -10,6 +11,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css" height="20" width="20"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" height="20" width="20"/>
 </p>
+-->
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=alpdias&show_icons=true" alt="alpdias"/> 

@@ -1,6 +1,9 @@
 <h1 align="center">Hi 😄, I'm Paulo</h1>
 <h3 align="center">Developer. Learning technologies!</h3>
+
+<!--
 <p align="center"><img src="https://komarev.com/ghpvc/?username=alpdias" alt="alpdias"/></p>
+-->
 
 <!--
 <p align="center">
@@ -25,11 +28,9 @@
 </p>
 -->
 
-<!--
 <p align="center">
 🔭 All of my projects are available ... https://paulodeveloper.netlify.app/
 </p>
--->
 
 <!--
 **alpdias/alpdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

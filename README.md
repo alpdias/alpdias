@@ -25,9 +25,11 @@
 </p>
 -->
 
+<!--
 <p align="center">
 🔭 All of my projects are available ... https://paulodeveloper.netlify.app/
 </p>
+-->
 
 <!--
 **alpdias/alpdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
